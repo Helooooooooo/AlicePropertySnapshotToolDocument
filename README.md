@@ -2,6 +2,7 @@
 
 It can read and temporarily store editable properties from most commonly used objects in the Unreal Engine editor, and when needed, transfer them to properties with the same name or user-specified properties of the same type on other objects.
 
+[Video Tutorial](https://www.youtube.com/watch?v=OR-5Xs4HncA)
 
 
 # Quick Start
