@@ -2,6 +2,10 @@
 
 它能够读取并暂存引擎编辑器中大部分常用对象上的可编辑属性，并在需要时将其传递给其他对象上同名的或者用户指定的同类型属性。
 
+[视频教程](https://www.bilibili.com/video/BV1VGpzemEqt)
+
+[商城链接](https://www.unrealengine.com/marketplace/zh-CN/product/53d44cf2e0a540c89345657e479030bf)
+
 
 
 # 快速入门
