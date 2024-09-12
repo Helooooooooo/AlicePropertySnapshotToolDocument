@@ -4,7 +4,7 @@ It can read and temporarily store editable properties from most commonly used ob
 
 [Video Tutorial](https://www.youtube.com/watch?v=OR-5Xs4HncA)
 
-[Marketplace](https://www.unrealengine.com/marketplace/en-US/product/53d44cf2e0a540c89345657e479030bf)
+[Marketplace Link](https://www.unrealengine.com/marketplace/en-US/product/53d44cf2e0a540c89345657e479030bf)
 
 
 # Quick Start
